@@ -81,9 +81,9 @@ Mecanismos para resolver de forma elegante problemas comunes en programación.
 ### Arquitectura de software: MVP, MVC & MVVM
 La arquitectura de software en el contexto de Android development se centra en el diseño y estructura de las aplicaciones móviles para dispositivos Android. Se busca crear una base sólida que permita un desarrollo eficiente, escalable y fácilmente mantenible.
 
-* MVP (Modelo-Vista-Presentador): Arquitectura básica.
-* MVC (Modelo-Vista-Controlador): Arquitectura básica.
-* MVVM (Modelo-Vista-VistaModelo): Arquitectura más avanzada.
+* MVP (Model-View-Presenter)
+* MVI (Model-View-Intent)
+* MVVM (Model-View-ViewModel)
 
 Sigue trabajando estos nuevos conceptos:
 
