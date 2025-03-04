@@ -142,6 +142,7 @@ Ya sólo falta cómo desplegar aplicaciones en la Google Play Store.
 
 **EXTRAS:** Aquí te dejo algún recurso extra relacionado con aprendizaje y obtención de certificaciones:
 
+* [Kotlin Doc Generator](https://plugins.jetbrains.com/plugin/index?xmlId=com.godwin.kdocer)
 * [Google Codelabs](https://codelabs.developers.google.com/)
 * [JetBrains Kotlin Partner](https://www.jetbrains.com/company/partners/kotlin/)
 * [Associate Android Developer](https://developers.google.com/certification/associate-android-developer)
