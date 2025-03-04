@@ -140,9 +140,17 @@ Ya sólo falta cómo desplegar aplicaciones en la Google Play Store.
   * Revisión y publicación en Google Play Store
   * Actualización en Google Play Store
 
+### Recomendación de Plugins 
+* [Kotlin Doc Generator](https://plugins.jetbrains.com/plugin/index?xmlId=com.godwin.kdocer)
+* [SON To Kotlin Class](https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-)
+* [SonarQube](https://plugins.jetbrains.com/plugin/7973-sonarqube-for-ide)
+* [Android Drawable Preview](https://plugins.jetbrains.com/plugin/10730-android-drawable-preview)
+* [Kotlin Fill Class](https://plugins.jetbrains.com/plugin/10942-kotlin-fill-class)
+* [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x/reviews)
+* [Kotlin Parameter Object](https://plugins.jetbrains.com/plugin/25083-kotlin-parameter-object)
+
 **EXTRAS:** Aquí te dejo algún recurso extra relacionado con aprendizaje y obtención de certificaciones:
 
-* [Kotlin Doc Generator](https://plugins.jetbrains.com/plugin/index?xmlId=com.godwin.kdocer)
 * [Google Codelabs](https://codelabs.developers.google.com/)
 * [JetBrains Kotlin Partner](https://www.jetbrains.com/company/partners/kotlin/)
 * [Associate Android Developer](https://developers.google.com/certification/associate-android-developer)
